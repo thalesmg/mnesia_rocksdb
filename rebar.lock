@@ -1,7 +1,7 @@
 {"1.2.0",
 [{<<"rocksdb">>,
   {git,"https://github.com/k32/erlang-rocksdb.git",
-       {ref,"c2b51da17d357fc8fca50668e13576d69f3d4161"}},
+       {ref,"e74972c3da4fe1f08eb66d39fce643a2d25a60be"}},
   0},
  {<<"sext">>,{pkg,<<"sext">>,<<"1.8.0">>},0}]}.
 [
