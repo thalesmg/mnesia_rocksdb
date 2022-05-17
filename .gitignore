@@ -2,3 +2,4 @@
 /_build
 MnesiaCore.*
 Mnesia.*
+rebar.lock
